@@ -1,0 +1,43 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F5F5F5;
+}
+main{
+    background-color: #ffffff;
+}
+.btn{
+    background-color: #4CAF4F;
+}
+.btn:hover {
+    background-color: #084d0a;
+    color: #4CAF4F;
+}
+.hero-container{
+    
+    margin: 96px 0;
+}
+.clients{
+    padding: 40px 0;
+}
+.c-logo{
+    margin: 16px auto;
+}
+.community{
+    margin-top: 40px;
+}
+.com-items{
+    background-color: #ffffff;
+    margin-top: 16px;
+    border: 1px solid #E6E6E6;
+    border-radius: 10px;
+    padding: 24px 32px;
+    box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.20);
+}
+.achievements{
+    background-color: #F5F5F5;
+    padding: 64px 0;
+}
