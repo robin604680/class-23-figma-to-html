@@ -41,3 +41,58 @@ main{
     background-color: #F5F5F5;
     padding: 64px 0;
 }
+
+.customers{
+    background-color: #F5F5F5;
+    padding: 32px 0;
+    margin-top: 48px;
+}
+
+.box{
+    padding: 10px 20px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top: -80px;
+    box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.20);
+}
+.marketing{
+    padding: 64px 0;
+}
+.demo{
+    background-color: #F5F5F5;
+}
+
+/* Footer Part */
+
+.footer-contact{
+    background-color: #263238;
+    position: relative;
+}
+.footer-contact li{
+    list-style: none;
+}
+.footer-contact li a{
+    text-decoration: none;
+    color: #ffffff;
+    margin: 20px 0;
+}
+.footer-contact input{
+    width: 300px;
+    background-color: #4f5c63;
+    border: none;
+    color: #ffffff;
+}
+.footer-contact ::placeholder{
+    color: #ffffff;
+}
+.forms{
+    
+}
+.sand-icon{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 100px;
+    right: 160px;
+}
